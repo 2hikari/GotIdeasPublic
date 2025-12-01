@@ -32,3 +32,6 @@ title: string
 summary: string
 content: string (full content or snippet)
 ```
+
+## Constraints
+- The agent is not allowed to create files in the root directory.

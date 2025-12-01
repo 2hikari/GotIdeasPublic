@@ -20,3 +20,6 @@ synthesis: string (comprehensive solution)
 reasoning: string (how it resolves critiques)
 confidence_score: float (0.0-1.0)
 ```
+
+## Constraints
+- The agent is not allowed to create files in the root directory.

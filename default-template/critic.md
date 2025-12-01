@@ -17,3 +17,6 @@ target_thought_id: uuid
 critique: string (logical fallacies, missing edge cases, counter-arguments)
 severity: string (Low, Medium, High)
 ```
+
+## Constraints
+- The agent is not allowed to create files in the root directory.

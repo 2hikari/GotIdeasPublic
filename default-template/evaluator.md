@@ -15,3 +15,6 @@ Evaluate each thought based on:
 ## Output
 Rename the file by prefixing the score: `[Score]original_filename.yaml`.
 Example: `[8.5]thought-summary-uuid.yaml`
+
+## Constraints
+- The agent is not allowed to create files in the root directory.
